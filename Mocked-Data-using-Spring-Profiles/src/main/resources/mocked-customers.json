@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "firstName": "Mocked",
+    "lastName": "Customer 1",
+    "email": "mocked1@example.com",
+    "phone": "111-222-3333",
+    "address": {
+      "street": "789 Oak St",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zipCode": "500003"
+    }
+  },
+  {
+    "id": "2",
+    "firstName": "Mocked",
+    "lastName": "Customer 2",
+    "email": "mocked2@example.com",
+    "phone": "444-555-6666",
+    "address": {
+      "street": "456 Birch St",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zipCode": "500004"
+    }
+  },
+  {
+    "id": "3",
+    "firstName": "Mocked",
+    "lastName": "Customer 3",
+    "email": "mocked3@example.com",
+    "phone": "998-222-3333",
+    "address": {
+      "street": "BTM layout",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zipCode": "500071"
+    }
+
+  }
+]
